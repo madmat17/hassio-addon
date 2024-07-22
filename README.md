@@ -1,5 +1,5 @@
 # evcc-hassio-addon
-evcc Add-on for Home Assistant OS
+evcc Add-on for Home Assistant OS - Delta AC MAX fix
 
 # Installation
 
